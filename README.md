@@ -1,6 +1,6 @@
 # Photo Yarn
 
-> Spin a yarn of photos with your friends
+> Spin a yarn of photos with your friends. A collaborative photo sharing app
 
 ## Team
 
